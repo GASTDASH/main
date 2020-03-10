@@ -1,0 +1,12 @@
+C:\Users\Prepod\source\repos\json\json\bin\Debug\json.exe.config
+C:\Users\Prepod\source\repos\json\json\bin\Debug\json.exe
+C:\Users\Prepod\source\repos\json\json\bin\Debug\json.pdb
+C:\Users\Prepod\source\repos\json\json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prepod\source\repos\json\json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.csprojAssemblyReference.cache
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.Form1.resources
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.Properties.Resources.resources
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.csproj.GenerateResource.cache
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.csproj.CopyComplete
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.exe
+C:\Users\Prepod\source\repos\json\json\obj\Debug\json.pdb
